@@ -53,8 +53,6 @@ const App = () => {
       setfootLoader(true);
       setPage(Page);
       fetchData(Page);
-    } else {
-      console.warn('reached at end of page');
     }
   };
 

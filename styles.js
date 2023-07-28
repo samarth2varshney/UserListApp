@@ -17,6 +17,7 @@ const styles = StyleSheet.create({
       padding: 5,
       borderRadius: 50,
       flexDirection: 'row',
+      marginBottom:14,
     },
     imageContainer: {
       width: 105,
